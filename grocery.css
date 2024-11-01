@@ -1,0 +1,78 @@
+#name{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+#canned{
+    display: block;
+    background-color: beige;
+    width: 300px;
+    border: 8px saddlebrown;
+    padding: 30px;
+    margin: 15px;
+    height: 150px;
+}
+
+#dry{
+    display: block;
+    background-color: beige;
+    width: 300px;
+    border: 8px saddlebrown;
+    padding: 30px;
+    margin: 15px;
+    height: 150px;
+    margin-top: -225px;
+    margin-left: 35%;
+}
+
+#pantryimg{
+    display: block;
+    width: auto;
+    height: 150px;
+    margin-left: 70%;
+    margin-top: -225px;
+    padding: 30px;
+    border: 8px;
+}
+
+#veggies{
+    display: block;
+    background-color: beige;
+    width: 300px;
+    border: 8px saddlebrown;
+    padding: 30px;
+    margin: 15px;
+    height: 150px;
+}
+
+#snacks{
+    display: block;
+    background-color: beige;
+    width: 300px;
+    border: 8px saddlebrown;
+    padding: 30px;
+    margin: 15px;
+    height: 150px;
+    margin-top: -225px;
+    margin-left: 35%;
+}
+
+#freezerimg{
+    display: block;
+    width: auto;
+    height: 150px;
+    margin-left: 70%;
+    margin-top: -225px;
+    padding: 30px;
+    border: 8px;
+}
+
+h3{
+    color: darkgreen;
+    background-color: azure;
+}
